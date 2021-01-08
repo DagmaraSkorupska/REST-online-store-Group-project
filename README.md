@@ -1,4 +1,4 @@
-# REST-online-store-Group-project
+# REST online store (Group project)
 
 Group project at Kodilla's bootcamp
 
